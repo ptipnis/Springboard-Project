@@ -1,0 +1,5 @@
+I would like to find the attrition rate over a certain period of time which occur due to declined billings
+My client is the executive management team of my company. They need to know how many cancellations are occuring due to billings that got declined.They would also like to know how many of those were voluntary and involuntary cancellations. Based on the report findings they will decide how to bring manage the attrition rate
+I will be using data pertaining to customer order and  customer billing. I will be creating some dummy data using business logic so that the data makes sense and is meaningful
+What data are you going to use for this? How will you acquire this data?
+In brief, outline your approach to solving this problem (knowing that this might change later).
